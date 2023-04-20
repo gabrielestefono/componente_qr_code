@@ -16,7 +16,7 @@ body{
     min-width: 320px;
     min-height: 496px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .container__img{
@@ -27,7 +27,7 @@ body{
 
 .container__img--img{
     width: 100%;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .container__description{
@@ -39,6 +39,7 @@ body{
     text-align: center;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+    line-height: 22px;
     margin-top: 1.5rem;
     font-size: 22px;
     font-family: 'Outfit', sans-serif;
@@ -49,6 +50,7 @@ body{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
+    line-height: 15px;
     font-family: 'Outfit', sans-serif;
     margin-top: 1.5rem;
     margin-bottom: 2.5rem;
