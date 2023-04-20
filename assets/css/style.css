@@ -16,7 +16,7 @@ body{
     min-width: 320px;
     min-height: 496px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .container__img{
@@ -27,7 +27,7 @@ body{
 
 .container__img--img{
     width: 100%;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .container__description{
