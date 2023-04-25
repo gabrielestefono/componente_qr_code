@@ -4,6 +4,10 @@ O projeto Componente QR Code é um projeto de HTML e CSS, criado de acordo com o
 
 https://github.com/gabrielestefono/Componente_QR_Code_React
 
+Também foi feito novamente em Vue.JS, segue o link:
+
+https://github.com/gabrielestefono/Componente_QR_Code_Vue
+
 ## Pré Requisitos
 * Navegador
 
